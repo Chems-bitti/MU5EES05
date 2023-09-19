@@ -45,4 +45,4 @@ Avec `du -lh`, où `-h` (human readable) affiche les tailles communes kilobytes,
 ```
 36K     Microsoft
 ```
-La différence est dû au fait que `ls` affiche la taille du fichier en bytes, alors que `du` affiche l'espace occupé par le fichier sur le disque
+La différence est dû au fait que `ls` affiche la taille du fichier en bytes, alors que `du` affiche l'espace occupé par le fichier sur le disque qui est alloué en blocs
