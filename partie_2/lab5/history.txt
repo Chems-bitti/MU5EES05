@@ -1,0 +1,663 @@
+    1  neofetch
+    2  sudo apt install neofetch
+    3  sudo apt update
+    4  sudo apt install neofetch
+    5  neofetch
+    6  clear
+    7  neofetch
+    8  nvim
+    9  sudo apt install neovim
+   10  ls
+   11  ls /
+   12  pwd
+   13  nvim test
+   14  man groff
+   15  cd
+   16  ls
+   17  cd /mnt/c/Windows/system32
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd Users/chmis/
+   22  ls
+   23  cd Documents/
+   24  ls
+   25  nvim test.txt
+   26  cd
+   27  git clone https://github.com/Chems-bitti/groff-m4
+   28  ls
+   29  cd groff-m4/
+   30  ls
+   31  cat chroff
+   32  pwd
+   33  nvim chroff
+   34  echo $PWD
+   35  sudo mv chroff /usr/local/bin/
+   36  chmod +x /usr/local/bin/chroff 
+   37  chroff out
+   38  sudo apt install m4
+   39  sudo apt install groff
+   40  rm /usr/share/groff/1.22.4/tmac/s.tmac 
+   41  sudo rm /usr/share/groff/1.22.4/tmac/s.tmac 
+   42  mv s.tmac /usr/share/groff/1.22.4/tmac/
+   43  sudo mv s.tmac /usr/share/groff/1.22.4/tmac/
+   44  chroff out
+   45  sudo apt install dvipdfm
+   46  dvipdfm
+   47  sudo apt install texlive-binaries
+   48  chroff out
+   49  grep test
+   50  echo 'dog eat dog' > dog
+   51  grep 'd' dog
+   52  rm dog
+   53  chroff out
+   54  sudo chroff
+   55  sudo chroff out
+   56  rm 
+   57  rm *.pdf
+   58  rm *.ms
+   59  ls
+   60  grap
+   61  sudo apt install grap
+   62  chroff out
+   63  sudo apt install zathura
+   64  zathura out.pdf 
+   65  cd school/
+   66  ls
+   67  zathura TP4.pdf 
+   68  pip
+   69  python
+   70  exit
+   71  ls
+   72  cd My\ Documents
+   73  ls
+   74  cd M1
+   75  ls
+   76  mkdir num ESA TSA TNS lignes
+   77  ls
+   78  nvim
+   79  ls ~/.config/
+   80  nvim
+   81  sudo apt install neovim
+   82  nvim
+   83  ls ~/.config/
+   84  mkdir ~/.config/nvim
+   85  nvim
+   86  nvim ~/.config/nvim/init.vim
+   87  nvim
+   88  ls
+   89  cd ESA
+   90  ls
+   91  mkdir cours
+   92  cd cours/
+   93  ls
+   94  nvim test.m4
+   95  git
+   96  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+   97  ls
+   98  ls ~/.vim/
+   99  nvim ~/.config/nvim/init.vim 
+  100  nvim test.m4
+  101  nvim ~/.config/nvim/init.vim 
+  102  nvim test.m4
+  103  which chroff
+  104  cat /usr/local/bin/chroff 
+  105  nvim ~/groff-m4/libcct.m4 
+  106  nvim test.m4
+  107  rm test
+  108  rm test*
+  109  ls
+  110  rm toc
+  111  ls
+  112  uname -a  
+  113  curl https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.2.0/graalvm-ce-java11-linux-amd64-22.2.0.tar.gz
+  114  ls
+  115  cd
+  116  mkdir graal
+  117  cd graal/
+  118  curl https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.2.0/graalvm-ce-java11-linux-amd64-22.2.0.tar.gz
+  119  ls
+  120  curl https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.2.0/graalvm-ce-java11-linux-amd64-22.2.0.tar.gz
+  121  ls
+  122  wget https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.2.0/graalvm-ce-java11-linux-amd64-22.2.0.tar.gz
+  123  ls
+  124  tar
+  125  clear
+  126  cd
+  127  cd /mnt/c/Users/chmis/
+  128  ls
+  129  cd Documents/
+  130  ls
+  131  cd
+  132  ls
+  133  time python mafs.py 
+  134  sudo apt install python3
+  135  time python3 mafs.py 
+  136  pip install numpy matplotlib
+  137  sudo apt install python3-pip
+  138  time python3 mafs.py 
+  139  pip install numpy
+  140  pip install matplotlib
+  141  time python3 mafs.py 
+  142  python3 mafs.py 
+  143  exit
+  144  ls
+  145  cd Documents/Thales/
+  146  ls
+  147  mkdir Caleil
+  148  mv Caleil/ caliel
+  149  cd caliel
+  150  nvim sept2022.m4
+  151  ls
+  152  clear
+  153  nvim sept2022.m4
+  154  cd
+  155  ghdl
+  156  sudo apt install ghdl
+  157  nvim RLCP.vhd
+  158  ls
+  159  rm RLCP.vhd 
+  160  ls
+  161  cd Documents/
+  162  cd M1/num/
+  163  ls
+  164  ffmpeg
+  165  sudo apt install ffmpeg
+  166  ffmpeg -i Hz_2D_line_source.avi Hz_2D_line_source.mp4
+  167  ffmpeg -i Hz_2D_line_source.avi -vcodec copy -acodec copy Hz_2D_line_source.mp4
+  168  ffmpeg -i Hz_2D_line_source.avi -c:v copy -c:a copy Hz_2D_line_source.mp4
+  169  ffmpeg -i Hz_2D_line_source.avi -c:v copy -c:a copy Hz_2D_line_source_loss.mp4
+  170  cd Documents/
+  171  ls
+  172  cd Thales/
+  173  ls
+  174  cd caliel/
+  175  ls
+  176  mkdir septembre
+  177  mv * septembre/
+  178  ls
+  179  mkdir octobre
+  180  mv septembre septembre2022
+  181  mv septembre2022 septembre
+  182  cd octobre/
+  183  ls
+  184  nvim oct2022.m4
+  185  vim TP2_TP3_FDTD_2D.mlx 
+  186  ls
+  187  cd Documents/Thales/caliel/
+  188  ls
+  189  cd octobre/
+  190  nvim oct2022.m4
+  191  sudo apt update
+  192  apt list --upgradable
+  193  cpio
+  194  man cpio
+  195  exit
+  196  clear
+  197  nvim TD4.m4
+  198  nvim TP.m4
+  199  nvim TP.ms
+  200  nvim TP.m4
+  201  curl https://www.ti.com/lit/zip/sloj069
+  202  ls
+  203  wget https://www.ti.com/lit/zip/sloj069
+  204  exit
+  205  nvim UniversalOpAmp4.lib 
+  206  sudo nvim UniversalOpAmp4.lib 
+  207  nvim TD4.m4
+  208  cd ../../../Thales/
+  209  ls
+  210  cd ..
+  211  ls
+  212  cd M1
+  213  ls
+  214  cd ..
+  215  cd Thales/
+  216  ls
+  217  cd caliel/
+  218  ls
+  219  mkdir novembre
+  220  cd novembre/
+  221  cd ../oct
+  222  cd ../octobre/
+  223  ls
+  224  nvim oct2022.m4
+  225  cd ../novembre/
+  226  nvim nov2022.m4
+  227  nvim ../octobre/oct2022.m4
+  228  nvim nov2022.m4
+  229  exit
+  230  man wattron
+  231  apt search ncurses
+  232  man ncurses
+  233  sudo apt-get install libncurses-dev
+  234  man wattron
+  235  man ncurses
+  236  apt search libncursrs
+  237  apt search libncurses
+  238  exit
+  239  nvim cards.txt
+  240  mv cards.txt chemin.txt
+  241  nvim action.txt
+  242  exit
+  243  ssh -X cadence.lisif.jussieu.fr
+  244  cd ..
+  245  mkdir decembre
+  246  mv novembre/* decembre/
+  247  mv decembre/* novembre/
+  248  cp novembre/* decembre/
+  249  cd decembre/
+  250  ls
+  251  nvim nov2022.m4
+  252  mv nov2022.m4 dec2022.m4
+  253  rm nov2022.*
+  254  ls
+  255  chroff dec2022
+  256  ls
+  257  nvim jan2023
+  258  nvim jan2023.m4 
+  259  cd
+  260  cd /mnt/c/Users/chmis/Videos/
+  261  youtube-dl https://youtu.be/_9vxBHgGsms
+  262  sudo apt installl youtube-dl
+  263  sudo apt install youtube-dl
+  264  youtube-dl
+  265  ls
+  266  cd janvier/
+  267  ls
+  268  cd
+  269  cd /mnt/c/Users/chmis/Documents/Thales/caliel/
+  270  mkdir fevrier
+  271  cp janvier/* fevrier/
+  272  ls
+  273  cd fevrier/
+  274  ls
+  275  mv jan2023.m4 fev2023.m4
+  276  rm jan2023.*
+  277  ls
+  278  nvim fev2023.m4 
+  279  touch users.txt
+  280  ls
+  281  exit
+  282  nvim NAIMI.m4
+  283  nvim mar2023.m4 
+  284  cd Documents/M1/
+  285  mkdir MOBJ
+  286  mkdir TME1
+  287  nvim cBox.h
+  288  nvim cBox.c
+  289  nvim cMain.c
+  290  nvim CMakeLists.txt
+  291  ls
+  292  mv *.c TME1/
+  293  ls
+  294  mv cBox.h TME1/
+  295  mv CMakeLists.txt TME1/
+  296  mv TEM1 MOBJ/
+  297  mv TME1 MOBJ/
+  298  ls
+  299  cd MOBJ
+  300  ls
+  301  cd TME1
+  302  ls
+  303  mkdir src
+  304  mv *.c src/
+  305  mv *.h src/
+  306  ls
+  307  ls src
+  308  mkdir build
+  309  mv CMakeLists.txt src/
+  310  ls
+  311  mkdir work
+  312  mkdir install
+  313  mkdir install/include
+  314  mkdir install/lib
+  315  mkdir install/bin
+  316  cd build/
+  317  cmake ../src
+  318  sudo apt install cmake
+  319  cmake ../src
+  320  make install
+  321  cls
+  322  clear
+  323  make install
+  324  clear
+  325  make install
+  326  cls
+  327  clear
+  328  make install
+  329  clear
+  330  make install
+  331  clear
+  332  make install
+  333  clear
+  334  make install
+  335  cls
+  336  clear
+  337  cls
+  338  make install
+  339  ls
+  340  ls ../work
+  341  ls ../install/
+  342  ls ../install/bin/
+  343  make install
+  344  clear
+  345  make install
+  346  clear
+  347  make install
+  348  clear
+  349  make install
+  350  clear
+  351  make install
+  352  clear
+  353  make install
+  354  clear
+  355  make install
+  356  ls
+  357  nvim ../src/CMakeLists.txt 
+  358  ls ../src/
+  359  make install
+  360  clear
+  361  make install
+  362  ls
+  363  ls ../work/
+  364  ls
+  365  mv ctme1 ../work/
+  366  ls
+  367  cd ../work/
+  368  ls
+  369  ./ctme1 
+  370  (cd ../build; make install)
+  371  ./ctme1 
+  372  ls ../build/
+  373  cd ../build/
+  374  ./ctme1 
+  375  make install
+  376  ./ctme1 
+  377  make install
+  378  ./ctme1 
+  379  make install
+  380  ./ctme1 
+  381  make install
+  382  ./ctme1 
+  383  make install
+  384  ./ctme1 
+  385  make install
+  386  ./ctme1 
+  387  make install
+  388  ./ctme1 
+  389  valgrind 
+  390  sudo apt install valgrind
+  391  ls
+  392  valgrind ./ctme1 
+  393  make install
+  394  ./ctme1 
+  395  valgrind ./ctme1
+  396  valgrind ./ctme1 --leak-check=full
+  397  make install
+  398  ./ctme1 
+  399  valgrind ./ctme1 --leak-check=full
+  400  CLEAR
+  401  clear
+  402  ./ctme1 
+  403  clear
+  404  make install
+  405  ./ctme1 
+  406  make install
+  407  ./ctme1 
+  408  make install
+  409  ./ctme1 
+  410  make install
+  411  ./ctme1 
+  412  make install
+  413  ./ctme1 
+  414  make install
+  415  ./ctme1 
+  416  make install
+  417  ./ctme1 
+  418  make install
+  419  ./ctme1 
+  420  make install
+  421  ./ctme1 
+  422  make install
+  423  ./ctme1 
+  424  make install
+  425  ./ctme1 
+  426  make install
+  427  ./ctme1 
+  428  make install
+  429  ./ctme1 
+  430  make install
+  431  ./ctme1 
+  432  make install
+  433  ./ctme1 
+  434  make install
+  435  ./ctme1 
+  436  make install
+  437  ./ctme1 
+  438  make install
+  439  ./ctme1 
+  440  make install
+  441  ./ctme1 
+  442  make install
+  443  ./ctme1 
+  444  make install
+  445  ./ctme1 
+  446  cd build/
+  447  cmake ../src
+  448  cd ../work/
+  449  (cd ../build/; make install)
+  450  clear
+  451  (cd ../build/; make install)
+  452  clear
+  453  (cd ../build/; make install)
+  454  ls
+  455  ../install/bin/TME3
+  456  (cd ../build/; make install)
+  457  clear
+  458  (cd ../build/; make install)
+  459  clear
+  460  (cd ../build/; make install)
+  461  clear
+  462  (cd ../build/; make install)
+  463  ../install/bin/TME3
+  464  (cd ../build/; make install)
+  465  ../install/bin/TME3
+  466  (cd ../build/; make install)
+  467  ../install/bin/TME3
+  468  (cd ../build/; make install)
+  469  ../install/bin/TME3
+  470  (cd ../build/; make install)
+  471  clear
+  472  (cd ../build/; make install)
+  473  clear
+  474  ../install/bin/TME3
+  475  clear
+  476  (cd ../build/; make install)
+  477  ../install/bin/TME3
+  478  (cd ../build/; make install)
+  479  clear
+  480  (cd ../build/; make install)
+  481  clear
+  482  (cd ../build/; make install)
+  483  clear
+  484  (cd ../build/; make install)
+  485  clear
+  486  (cd ../build/; make install)
+  487  clear
+  488  (cd ../build/; make install)
+  489  ../install/bin/TME3
+  490  (cd ../build/; make install)
+  491  ../install/bin/TME3
+  492  (cd ../build/; make install)
+  493  ../install/bin/TME3
+  494  (cd ../build/; make install)
+  495  ../install/bin/TME3
+  496  clear
+  497  (cd ../build/; make install)
+  498  ../install/bin/TME3
+  499  (cd ../build/; make install)
+  500  ../install/bin/TME3
+  501  nvim avr2023.m4 
+  502  cd Documents/
+  503  nvim placeholder.m4
+  504  exit
+  505  apt search gammu
+  506  sudo apt install gammu
+  507  sudo apt-get update
+  508  sudo apt install gammu
+  509  exit
+  510  apt search gammu
+  511  sudo apt install gammu
+  512  gammu-detect
+  513  cat /etc/gammu
+  514  cat /etc/gammurc
+  515  ls
+  516  cls
+  517  ls
+  518  cd 'My Documents'
+  519  ls
+  520  cd other/
+  521  mkdir gammu
+  522  cd gammu
+  523  gammu-detect
+  524  gammu identify
+  525  gammu-detect
+  526  gammu-detec
+  527  cat .gammurc
+  528  mv .gammurc gammurc
+  529  gammu identify
+  530  nvim gammurc 
+  531  gammu identify
+  532  mv gammurc .gammurc
+  533  gammu identify
+  534  gammu-detect > .gammurc
+  535  gammu identify
+  536  nvim .gammurc 
+  537  gammu identify
+  538  exit
+  539  apt search gsmlib
+  540  apt search gsm
+  541  apt search gsmlib
+  542  sudo apt install libgsmme1v5
+  543  gsmlib
+  544  sudo apt-get install modemmanager modem-manager-gui
+  545  dmesg
+  546  dmesg | grep pixel
+  547  [A
+  548  dmesg | grep USB
+  549  exit
+  550  dmesg | grep cp2
+  551  dmesg | grep cp
+  552  dmesg | grep usb
+  553  dmesg
+  554  cd
+  555  dmesg
+  556  dmesg | grep usb
+  557  cd /dev/
+  558  ls
+  559  cat tty
+  560  ls -a
+  561  ls -ax
+  562  man ls
+  563  ls -l
+  564  dmesg | grep tty
+  565  dmesg
+  566  dmesg | grep usb
+  567  cd ..
+  568  ls
+  569  man cu
+  570  cu
+  571  sudo apt install cu
+  572  man cu
+  573  dmesg
+  574  dmesg | grep usb
+  575  dmesg | grep tty
+  576  cd partie_2/lab4/
+  577  stat Microsoft 
+  578  man stat
+  579  cd partie_2/lab4/
+  580  ls
+  581  ls .*
+  582  ls -lrt
+  583  ls -t
+  584  ls -lt
+  585  ls -l
+  586  ls -lt
+  587  ls -ltr
+  588  ls -lS
+  589  ls -lSr
+  590  cat answering-machine.txt 
+  591  vi answering-machine.txt 
+  592  less answering-machine.txt 
+  593  nano answering-machine.txt 
+  594  nvim answering-machine.txt 
+  595  tail -n 20 sardar/sardar3.txt 
+  596  grep 'trust' Microsoft 
+  597  grep 'money' * sardar/*
+  598  grep -i 'money' * sardar/*
+  599  mv .lightbulb lightbulb
+  600  ls
+  601  cd sardar/
+  602  mv sardar3.txt ../
+  603  cd ..
+  604  mv sardar3.txt ../../partie_1/lab3/
+  605  rm Microsoft 
+  606  ln -s sardar/* .
+  607  ls
+  608  cat sardar1.txt 
+  609  cls
+  610  clear
+  611  ls
+  612  rm sardar/sardar2.txt 
+  613  ls
+  614  cd partie_2/lab4/
+  615  ls
+  616  chmod =r sardar/sardar1.txt 
+  617  ls -l sardar/
+  618  ls -l sardar1.txt 
+  619  ls -l sardar/sardar1.txt 
+  620  chmod +w sardar/sardar1.txt 
+  621  ls -l sardar/sardar1.txt 
+  622  nvim sardar/sardar1.txt 
+  623  cd ..
+  624  cd partie_2
+  625  tar lab4.tar.bz2 lab4
+  626  tar cfz lab4.tar.bz2 lab4
+  627  ls
+  628  ls lab4.tar.bz2 
+  629  ls lab4.tar.bz2/
+  630  tar -t lab4.tar.bz2
+  631  tar -tf lab4.tar.bz2
+  632  rm lab4.tar.bz2 
+  633  tar -c lab4
+  634  tar -cf lab4
+  635  tar -cf lab4/
+  636  tar -cf lab4/*
+  637  tar -c lab4.tar.bz2 lab4/
+  638  tar -cf lab4.tar.bz2 lab4/
+  639  tar -tf lab4.tar.bz2 
+  640  mv lab4.tar.bz2  lab4/
+  641  ls
+  642  cd lab4/
+  643  ls
+  644  rm sardar1.txt 
+  645  rm sardar2.txt 
+  646  ls
+  647  man ls
+  648  man tail
+  649  man grep
+  650  man chmod
+  651  man tar
+  652  info tar
+  653  cd partie_
+  654  cd partie_2
+  655  git clone https://github.com/khachicha/MU5EES05_lab_5
+  656  ls
+  657  mv MU5EES05_lab_5/ lab5
+  658  cd lab5/
+  659  ls
+  660  rm -rf .git
+  661  ls
+  662  history
+  663  history > history.txt
